@@ -1,2 +1,2 @@
-# serverlist_for_ss_app
+# serverlist_for_ios_app
 # 1
